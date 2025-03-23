@@ -1,7 +1,7 @@
 # 🎟️ Redshift Ticket Sales Analysis (Google Colab Portfolio)
 
 This project demonstrates how to connect to **Amazon Redshift Serverless** from a Google Colab notebook, run clean SQL-based analytics, and create interactive visualizations using Plotly.
-
+([source](https://docs.aws.amazon.com/redshift/latest/dg/c_sampledb.html)).
 ## 🔍 Overview
 
 We use the `tickit` sample dataset preloaded in Redshift to analyze event ticket sales. This project is ideal for showcasing:
